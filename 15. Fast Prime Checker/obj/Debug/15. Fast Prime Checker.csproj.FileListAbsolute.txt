@@ -1,0 +1,5 @@
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.exe.config
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\15. Fast Prime Checker\obj\Debug\_15.Fast_Prime_Checker.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\15. Fast Prime Checker\obj\Debug\_15.Fast_Prime_Checker.pdb

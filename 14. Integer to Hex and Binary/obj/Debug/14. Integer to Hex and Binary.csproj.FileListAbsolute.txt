@@ -1,0 +1,5 @@
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe.config
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\14. Integer to Hex and Binary\obj\Debug\_14.Integer_to_Hex_and_Binary.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\14. Integer to Hex and Binary\obj\Debug\_14.Integer_to_Hex_and_Binary.pdb

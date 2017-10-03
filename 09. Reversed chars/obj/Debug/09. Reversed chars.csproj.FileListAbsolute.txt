@@ -1,0 +1,5 @@
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe.config
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\09. Reversed chars\bin\Debug\_09.Reversed_chars.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\09. Reversed chars\obj\Debug\_09.Reversed_chars.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\09. Reversed chars\obj\Debug\_09.Reversed_chars.pdb

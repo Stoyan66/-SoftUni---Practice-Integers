@@ -1,0 +1,5 @@
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe.config
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.pdb

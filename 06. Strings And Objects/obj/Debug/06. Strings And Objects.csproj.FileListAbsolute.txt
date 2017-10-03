@@ -1,0 +1,5 @@
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe.config
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.pdb

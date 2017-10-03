@@ -1,0 +1,5 @@
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

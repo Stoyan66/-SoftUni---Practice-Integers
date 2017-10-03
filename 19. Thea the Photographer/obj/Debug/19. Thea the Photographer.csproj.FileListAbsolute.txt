@@ -1,0 +1,6 @@
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\19. Thea the Photographer\bin\Debug\_19.Thea_the_Photographer.exe.config
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\19. Thea the Photographer\bin\Debug\_19.Thea_the_Photographer.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\19. Thea the Photographer\bin\Debug\_19.Thea_the_Photographer.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\19. Thea the Photographer\obj\Debug\_19.Thea_the_Photographer.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\19. Thea the Photographer\obj\Debug\_19.Thea_the_Photographer.pdb
+C:\Users\bgsto\Documents\Visual Studio 2017\Projects\01. Practice Integers\19. Thea the Photographer\obj\Debug\19. Thea the Photographer.csprojResolveAssemblyReference.cache

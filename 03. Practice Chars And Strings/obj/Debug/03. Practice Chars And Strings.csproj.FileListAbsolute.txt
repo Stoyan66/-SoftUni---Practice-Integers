@@ -1,0 +1,5 @@
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.exe.config
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\03. Practice Chars And Strings\obj\Debug\_03.Practice_Chars_And_Strings.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\03. Practice Chars And Strings\obj\Debug\_03.Practice_Chars_And_Strings.pdb

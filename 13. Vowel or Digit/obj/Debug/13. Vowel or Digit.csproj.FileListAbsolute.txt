@@ -1,0 +1,5 @@
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe.config
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\01. Practice Integers\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.pdb

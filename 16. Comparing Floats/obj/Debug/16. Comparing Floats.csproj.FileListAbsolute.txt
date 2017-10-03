@@ -1,0 +1,6 @@
+C:\Users\bgsto\Documents\Visual Studio 2017\Projects\01. Practice Integers\16. Comparing Floats\obj\Debug\16. Comparing Floats.csprojResolveAssemblyReference.cache
+C:\Users\bgsto\Documents\Visual Studio 2017\Projects\01. Practice Integers\16. Comparing Floats\bin\Debug\_16.Comparing_Floats.exe.config
+C:\Users\bgsto\Documents\Visual Studio 2017\Projects\01. Practice Integers\16. Comparing Floats\bin\Debug\_16.Comparing_Floats.exe
+C:\Users\bgsto\Documents\Visual Studio 2017\Projects\01. Practice Integers\16. Comparing Floats\bin\Debug\_16.Comparing_Floats.pdb
+C:\Users\bgsto\Documents\Visual Studio 2017\Projects\01. Practice Integers\16. Comparing Floats\obj\Debug\_16.Comparing_Floats.exe
+C:\Users\bgsto\Documents\Visual Studio 2017\Projects\01. Practice Integers\16. Comparing Floats\obj\Debug\_16.Comparing_Floats.pdb
